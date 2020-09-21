@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aab1f613-a415-4e3a-bda7-fda4fc5df070" name="Default Changelist" comment="New ide">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hZEINqr1ymZAXH5mwKQat3xRJB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="testing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testing.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.testing.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aab1f613-a415-4e3a-bda7-fda4fc5df070" name="Default Changelist" comment="" />
+      <created>1600210136487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600210136487</updated>
+      <workItem from="1600210139603" duration="291000" />
+      <workItem from="1600211498905" duration="1618000" />
+      <workItem from="1600263125543" duration="478000" />
+      <workItem from="1600264651883" duration="1018000" />
+      <workItem from="1600298028513" duration="825000" />
+      <workItem from="1600720412505" duration="43000" />
+    </task>
+    <task id="LOCAL‎00001" summary="New ide">
+      <created>1600210347435</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1600210347435</updated>
+    </task>
+    <task id="LOCAL‎00002" summary="New ide">
+      <created>1600263335120</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1600263335120</updated>
+    </task>
+    <task id="LOCAL‎00003" summary="New ide">
+      <created>1600263544107</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1600263544107</updated>
+    </task>
+    <task id="LOCAL‎00004" summary="New ide">
+      <created>1600264864066</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1600264864067</updated>
+    </task>
+    <task id="LOCAL‎00005" summary="New ide">
+      <created>1600265053454</created>
+      <option name="number" value="LOCAL‎00005" />
+      <option name="presentableId" value="LOCAL‎00005" />
+      <updated>1600265053454</updated>
+    </task>
+    <task id="LOCAL‎00006" summary="added arknoid project link">
+      <created>1600298082007</created>
+      <option name="number" value="LOCAL‎00006" />
+      <option name="presentableId" value="LOCAL‎00006" />
+      <updated>1600298082007</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="New ide" />
+    <MESSAGE value="added arknoid project link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added arknoid project link" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="99" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600211552405">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state x="99" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1289.685@0.0.1289.685" timestamp="1600211552405" />
+    <state width="1267" height="164" key="GridCell.Tab.0.bottom" timestamp="1600213133966">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state width="1267" height="164" key="GridCell.Tab.0.bottom/0.0.1289.685@0.0.1289.685" timestamp="1600213133966" />
+    <state width="1267" height="164" key="GridCell.Tab.0.center" timestamp="1600213133965">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state width="1267" height="164" key="GridCell.Tab.0.center/0.0.1289.685@0.0.1289.685" timestamp="1600213133965" />
+    <state width="1267" height="164" key="GridCell.Tab.0.left" timestamp="1600213133965">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state width="1267" height="164" key="GridCell.Tab.0.left/0.0.1289.685@0.0.1289.685" timestamp="1600213133965" />
+    <state width="1267" height="164" key="GridCell.Tab.0.right" timestamp="1600213133966">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state width="1267" height="164" key="GridCell.Tab.0.right/0.0.1289.685@0.0.1289.685" timestamp="1600213133966" />
+    <state x="237" y="75" key="Vcs.Push.Dialog.v2" timestamp="1600298087561">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state x="237" y="75" key="Vcs.Push.Dialog.v2/0.0.1289.685@0.0.1289.685" timestamp="1600298087561" />
+  </component>
+</project>
