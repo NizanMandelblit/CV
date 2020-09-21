@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab1f613-a415-4e3a-bda7-fda4fc5df070" name="Default Changelist" comment="New ide">
+    <list default="true" id="aab1f613-a415-4e3a-bda7-fda4fc5df070" name="Default Changelist" comment="added link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +78,8 @@
       <workItem from="1600263125543" duration="478000" />
       <workItem from="1600264651883" duration="1018000" />
       <workItem from="1600298028513" duration="825000" />
-      <workItem from="1600720412505" duration="43000" />
+      <workItem from="1600720412505" duration="115000" />
+      <workItem from="1600730662107" duration="22000" />
     </task>
     <task id="LOCAL‎00001" summary="New ide">
       <created>1600210347435</created>
@@ -115,7 +117,13 @@
       <option name="presentableId" value="LOCAL‎00006" />
       <updated>1600298082007</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎00007" summary="added link">
+      <created>1600720501575</created>
+      <option name="number" value="LOCAL‎00007" />
+      <option name="presentableId" value="LOCAL‎00007" />
+      <updated>1600720501575</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +145,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="New ide" />
     <MESSAGE value="added arknoid project link" />
-    <option name="LAST_COMMIT_MESSAGE" value="added arknoid project link" />
+    <MESSAGE value="added link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added link" />
   </component>
   <component name="WindowStateProjectService">
     <state x="99" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600211552405">
@@ -160,9 +169,9 @@
       <screen x="0" y="0" width="1289" height="685" />
     </state>
     <state width="1267" height="164" key="GridCell.Tab.0.right/0.0.1289.685@0.0.1289.685" timestamp="1600213133966" />
-    <state x="237" y="75" key="Vcs.Push.Dialog.v2" timestamp="1600298087561">
+    <state x="237" y="75" key="Vcs.Push.Dialog.v2" timestamp="1600720503567">
       <screen x="0" y="0" width="1289" height="685" />
     </state>
-    <state x="237" y="75" key="Vcs.Push.Dialog.v2/0.0.1289.685@0.0.1289.685" timestamp="1600298087561" />
+    <state x="237" y="75" key="Vcs.Push.Dialog.v2/0.0.1289.685@0.0.1289.685" timestamp="1600720503567" />
   </component>
 </project>
